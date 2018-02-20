@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../fyber-scala-training-day-1-master/basics" value="1497997958000" />
+        <entry key="$PROJECT_DIR$/../../fyber-scala-training-day-1-master/concurrency" value="1497997958000" />
+        <entry key="$PROJECT_DIR$/../../fyber-scala-training-day-1-master/hello-world" value="1497997958000" />
+        <entry key="$PROJECT_DIR$/../../fyber-scala-training-day-2-master/akka-actors" value="1498084286000" />
+        <entry key="$PROJECT_DIR$/../../fyber-scala-training-day-2-master/concurrency" value="1498084286000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
